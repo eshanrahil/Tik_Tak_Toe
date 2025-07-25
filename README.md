@@ -1,2 +1,1 @@
-# Tik_Tak_Toe
-Final Year Mini Project using Python(Tkinter)
+This is a game called Tic Tac Toe, which I developed using Python. The application incorporates AI technology and various Python libraries, and I’ve enhanced the user experience by adding background music and click sounds.
